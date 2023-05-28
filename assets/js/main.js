@@ -17,7 +17,7 @@
     if (ud_header.classList.contains("sticky")) {
       logo.src = "assets/images/logo/harmos-logo.webp";
     } else {
-      logo.src = "assets/images/logo/harmos-logo.webp";
+      logo.src = "assets/images/logo/harmos-logo-white.png";
     }
 
     // show or hide the back-top-top button
